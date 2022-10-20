@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sahspeaks.github.io/csb-67vgl0/static/css/main.0317d57d.chunk.css",
+    "main.js": "https://sahspeaks.github.io/csb-67vgl0/static/js/main.4fefee64.chunk.js",
+    "main.js.map": "https://sahspeaks.github.io/csb-67vgl0/static/js/main.4fefee64.chunk.js.map",
+    "runtime-main.js": "https://sahspeaks.github.io/csb-67vgl0/static/js/runtime-main.370ca9b0.js",
+    "runtime-main.js.map": "https://sahspeaks.github.io/csb-67vgl0/static/js/runtime-main.370ca9b0.js.map",
+    "static/js/2.a9765d14.chunk.js": "https://sahspeaks.github.io/csb-67vgl0/static/js/2.a9765d14.chunk.js",
+    "static/js/2.a9765d14.chunk.js.map": "https://sahspeaks.github.io/csb-67vgl0/static/js/2.a9765d14.chunk.js.map",
+    "index.html": "https://sahspeaks.github.io/csb-67vgl0/index.html",
+    "static/css/main.0317d57d.chunk.css.map": "https://sahspeaks.github.io/csb-67vgl0/static/css/main.0317d57d.chunk.css.map",
+    "static/js/2.a9765d14.chunk.js.LICENSE.txt": "https://sahspeaks.github.io/csb-67vgl0/static/js/2.a9765d14.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.370ca9b0.js",
+    "static/js/2.a9765d14.chunk.js",
+    "static/css/main.0317d57d.chunk.css",
+    "static/js/main.4fefee64.chunk.js"
+  ]
+}
